@@ -1,0 +1,11 @@
+1) localhost:8080
+
+2) new item 
+    Git connection
+3) new build
+    Html design
+    details 
+    type of execution
+    command 
+    
+4) Report generation 

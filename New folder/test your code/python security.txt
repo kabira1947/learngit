@@ -1,0 +1,5 @@
+1) bandit -r package or folder name
+  config file
+  	[bandit]
+	exclude: /test
+	tests: B101,B102,B301

@@ -1,0 +1,22 @@
+It is used to check multiple version of python
+
+Config file
+
+name:- tox.ini
+
+[tox]
+envlist = py27, py36
+skipsdist=True
+[testenv]
+deps = *Django, Flask  * if setup file is not there
+
+commands =
+    python -m unittest discover
+
+
+process: 1) Configuration
+	 2) Packageing
+         3) environment setup 
+         4) environment creation
+         5) install and commands
+         6) reports

@@ -1,0 +1,8 @@
+1) Collect dataset
+	|- Positive and negatives
+2) Create folder for positive (P)
+3) Create folder for negative(N)
+4) Use haar-cascade tainer GUI
+	|-Specify the path
+	|-Set stages
+	|-Set Width and Height

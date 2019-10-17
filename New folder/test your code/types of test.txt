@@ -1,0 +1,20 @@
+1)Unit test
+  import unit test module
+  Def function_name(unittest.Testcase):
+	"Your Code"
+  __init__='__main__':
+  unittest.main()
+
+
+* for single version python
+
+2) Doctest 
+
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
+
+3) Py.test
+  pip install pytest
+
+4) Mock 

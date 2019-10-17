@@ -1,0 +1,4 @@
+iptable --flush
+iptable -I FORWARD -j NFQUEUE --queue-num 0
+iptable -I OUTPUT -j NFQUEUE --queue-num 0
+iptable -I INPUT -j NFQUEUE --queue-num 0

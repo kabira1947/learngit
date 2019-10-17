@@ -1,0 +1,74 @@
+For official use:1) Make the data visibility very easy 
+		 2) Create charts for better understanding 
+		 3) Maintain employee attendance manager
+
+• GUI – 1) Camera Jobs 
+		i)   face D
+		ii)  color D
+		iii) car D
+		iv)  eye D
+		v)   motion D
+		vi)  person D
+		vii) speed detectors
+		viii)review system from video D
+		ix)  Sudoku solver 
+	2) Image filter editor
+
+• Cyber security – 1) Port scanner D
+		   2) Brute force  D
+		   3) Network analyzer D
+		   4) Multi-functional reverse shell
+		   5) Reverse shell
+		   6) Sniffer, flooder,Spoof
+		   7) Mass mailer D
+		   8) Document Cryptor D
+		   9) Keylogger D
+		  10) Ip details Grabber D
+		  11) XSS scanner
+	          12) SQL injection Scanner
+	 	  13) Website status checker D
+		  14) Auto page opener D
+		  15) Mouse controller D
+		  16) Tools for website penetration testing 
+
+• Text to speech – 1) Text reader D
+		   2) Jarvis style API using API Keys D
+		   3) Speech to text	
+
+• Database- Data extractor in Table format from MySQL Database  D
+
+• Some basic - 1)Scrapper
+		i)  Quote D
+		ii) News D
+		iii)Weather D
+		iv) General information scrapper D
+		v)  Link scrapper D
+		vi) Characters counter, Words counter D
+	       2) Algorithms and concepts learner for Freshers D
+	       3) Turtle Drawing D
+
+Modules :- 	1)  OS
+		2)  SYS 
+		3)  Pyinput
+		4)  Math
+		5)  Beautifulsoup
+		6)  Time
+		7)  Calendar
+		8)  Webbrowser
+		9)  Turtle
+		10) Panda
+		11) Tkinter
+		12) Speech-recognition
+		13) Smtblib
+		14) Urllib
+		15) OpenCV
+		16) Socket
+		17) smtblib
+		18) Random
+		19) Urlib
+		20) Re
+
+
+• Worked in Py. to Exe D
+• Python setup tool  D
+• python automation 

@@ -1,0 +1,24 @@
+1) Cal= Calender
+	cal-h,cal-3,cal -n number,cal -y 2011,
+
+2) mkidir,mkidir -p name/name1/name2,
+   rmdir,rmdir -pv name,rm -i,rm -r, rm -ir
+   cd,cd ..,
+3) touch 
+   get
+   cat, clt+ Z or D, cat > filename(store data from file), cat > filename(display data from filer),cat file name,
+   cat filename  filename1, cat filename > filename1,cat filename >> filename1
+
+   > = data over write
+  >> = data append
+
+4) ls -ltr,tr,a,hl,lg,-g -l,Sl,Srl,r
+
+5) wc filename,wc -c filename, wc -w filename,wc -l filename, wc -l filename filename1
+6) head -3 file name,tail -3 filename
+
+7) mkdir filename >error log
+8)grep 
+9) sort,cut,
+10) Unique - Text | Line | Files - Count | Display - uniq command
+11) Delete - Character - STDIN | STDOUT - tr command

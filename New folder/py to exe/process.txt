@@ -1,0 +1,19 @@
+1) 	pyinstaller main.py
+
+	pyinstaller --onefile main.py
+
+	pyinstaller --onefile -w main.py
+
+2)NSIS
+
+3) i)from cx_freeze import setup,Executable
+setup(name="E-mail sending program",
+	version="1.0",
+	author=" Likun",
+	description="",
+	executables=[Executable(r,"",icon="",
+		shortcutName="",
+		shortcutDir="")]
+	)
+    ii) In CMD python setup.py bdist_msi
+3) auto py to exe

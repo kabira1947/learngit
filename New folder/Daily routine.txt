@@ -1,0 +1,27 @@
+6.00 =water,sprouts,bhusi
+ 
+8.00 = Gym
+
+10.30 =Bath
+
+11.00 =food 
+
+11.30 =study(Python,JS,Linux)
+
+2.00= lunch
+
+2.30= study(Python,JS,Linux)
+
+5.00=Sweep,Floor Wipe, Snacks,Cook
+
+7.00= Dinner
+
+7.30= Interview Questions
+
+9.30= Git,Jenkins,MySQL 
+
+10.00=French, Marathi
+
+11.00=Job apply
+
+12.00= Sleep

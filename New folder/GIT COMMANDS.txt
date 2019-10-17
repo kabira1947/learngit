@@ -1,0 +1,79 @@
+git config --global user.email "adhwiraj@gmail.com"
+git config --global user.name "Prabhu Kalyan Samal"
+
+
+part 1 
+
+1)git init
+
+ staging area
+
+2)git status
+3)git add "file name" || -A
+
+  Snapshot 
+4)git commit -m "msg about the update"
+
+
+upload to github cloud
+
+5)git remote add origin "repo name"
+6)git push origin master
+
+7)git clone repo link
+8)git pull origin master
+
+
+9)git diff
+10) git resem
+11) git rm
+12) git show
+13) git tag
+14) 
+part 2 (Branch)
+
+1) git branch
+2) git branch new-branch-name
+3) git checkout new-branch
+4) git merge
+part 3 (LOG)
+
+1)git log
+2)git log -p
+3)git log --oneline
+4)git log -2
+5)git log -i --grep="text"
+6)git log -i G"Text in Coce"
+7)git log --stat
+8)git log -i --author="prabhu"
+
+Part 4 (Stash)
+
+1) git stash list
+2) git stash apply unique id
+3) git stash drop unique id
+4) git stash clean
+5) git stash pop
+
+Part 5 (Stash Chunk)
+
+1)git stash -p
+2)
+
+part 6
+
+part 7
+
+git cherry pic
+
+git log
+git checkout master
+git cherry-pick sha copied code
+
+
+Git allias 
+
+git config --global allias.co  checkout
+
+git ssh authentication
+

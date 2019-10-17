@@ -1,0 +1,11 @@
+from setuptools import setup, find_package
+
+setup(name=""packge_likun,
+	     version=""0.1",
+	     Description=""
+	     Long-Description="",
+	     author="likun",
+	     packages=['pythonpackage'],
+	    or packages= find_packages()		],
+	     install_requires=["requests>=2"],
+	     python_requires="~3.5")

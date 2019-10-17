@@ -1,0 +1,4 @@
+1)Wheel file create
+  python setup.py sdlst bdlst_wheel
+
+2) python copiles code saved as .pyc 

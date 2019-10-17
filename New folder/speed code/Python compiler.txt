@@ -1,0 +1,9 @@
+
+	AOT Compiler
+cPython most commonly used tool for compiling to c
+shedskin automatic python to c convertor
+pythran for numpy and non numpy code
+
+ 	JIT Compiler
+numba A compiler specialized for numpy code 
+pypy a stable jit compiler for non numpy code

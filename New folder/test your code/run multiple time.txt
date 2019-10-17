@@ -1,0 +1,21 @@
+1)def test():
+    # ... your code
+
+if __name__ == '__main__':
+    import timeit
+    print(timeit.timeit("test()", setup="from __main__ import test", number=100))
+
+
+
+it will test your code 100 times
+
+
+
+
+2)pip install pytest-benchmark
+   it test by running pytest
+
+  def test_my_function(benchmark):
+    result = benchmark(test)
+
+  show time execution of function

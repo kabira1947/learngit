@@ -1,0 +1,10 @@
+profiling speeds up the programme
+
+1)Timer
+
+2) Cprofile
+	cProfile
+3) liner profiler
+    line_profiler
+
+    

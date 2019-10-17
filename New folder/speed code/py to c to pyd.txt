@@ -1,0 +1,22 @@
+Install cython: pip install cython
+
+
+Run setup: Python setup.py --inplace
+
+Run setup(No Console): Python setup.py -w --inplace
+
+
+
+example: 
+1)setup.py
+   from distutils.core import setup
+   from Cython.Build import cythonize
+   directives = {'linetrace': False,'language_level':3}
+   setup(ext_modules = cythonize('fine_name.py'))
+2)create a file setup.pydx
+3)command:-python setup.py build_ext --inplace
+4) create run.py
+   import filename.py
+5) 
+   @echo OFF
+   python run.py 
